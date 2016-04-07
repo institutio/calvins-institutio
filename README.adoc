@@ -2,4 +2,5 @@ calvins-institutio
 ==================
 Thomas Reiner
 
-Text von Calvins Institutio als Asciidoc inkl. Überschriften und Randbemerkungen.
+Text von Calvins Institutio als Asciidoc inkl. Überschriften und Randbemerkungen,
+zur einfachen Veröffentlichung als HTML.
